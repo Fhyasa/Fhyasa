@@ -3,7 +3,7 @@
 
 💻 Languages I know: Python, HTML
 
-🔧 Currently learning: JavaScript, C#
+🔧 Currently learning: JavaScript, C#, C++
 
 🐶 Fun fact: I have a dog and I'm addicted to Hypixel Skyblock!
 
