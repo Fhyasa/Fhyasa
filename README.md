@@ -10,7 +10,7 @@
 # What I'm up to:
 📚 Focusing on my studies to become an IT Specialist.
 
-🚀 Working on projects to improve my skills in JavaScript and C#.
+🚀 Grinding Skyblock.
 
 # Let's connect:
 Discord: Fhyasa
