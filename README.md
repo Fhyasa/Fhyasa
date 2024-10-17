@@ -13,8 +13,8 @@
 🚀 Grinding Skyblock.
 
 # Let's connect:
-Discord: Fhyasa
-
-Minecraft: Fhyasa
-
-Youtube: Fhyasa
+<div>
+  <a href="https://discord.com/users/fhyasa">
+    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="Discord" width="146" height="27">
+  </a>
+</div>
