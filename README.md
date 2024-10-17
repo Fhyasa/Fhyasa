@@ -21,7 +21,6 @@
 <br>
 <div>
   <a href="https://www.youtube.com/@Fhyasa">
-    <img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" alt="Discord" width="134" height="30">
+    <img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" alt="YouTube" width="134" height="30">
   </a>
 </div>
-
