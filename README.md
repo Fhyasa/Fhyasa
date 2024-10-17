@@ -14,3 +14,7 @@
 
 # Let's connect:
 Discord: Fhyasa
+
+Minecraft: Fhyasa
+
+Youtube: Fhyasa
