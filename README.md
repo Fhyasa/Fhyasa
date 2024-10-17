@@ -10,7 +10,10 @@
 # What I'm up to:
 📚 Focusing on my studies to become an IT Specialist.
 
-🚀 Grinding Skyblock.
+<div>
+  🚀 Grinding Skyblock.
+  <img src="https://64.media.tumblr.com/d67b48150c438436bd2347deb205bac0/53d54e8ca4426511-05/s400x600/f46259ae64c1f4b66670f119e72be8a14071b4eb.gifv" align="center" width="30" height="30">
+</div>
 
 # Let's connect:
 <div>
