@@ -1,7 +1,7 @@
 # Hi, I'm Fhyasa! 👋
 🌱 I'm currently studying to become an IT Specialist
 
-💻 Languages I know: Python, HTML
+💻 Languages I know: Python, HTML, English
 
 🔧 Currently learning: JavaScript, C#, C++
 
