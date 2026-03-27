@@ -1,4 +1,4 @@
-# Hi, I'm Fhyasa! 👋
+# Hi, I'm Fhyasa!
 I'm currently studying to become an IT Specialist
 
 Languages I know: Python, HTML, PowerShell, English and Danish
@@ -8,7 +8,7 @@ Currently learning: JavaScript, C#, C++
 Fun fact: I have a dog and I'm addicted to Hypixel Skyblock!
 
 ## What I'm up to:
-📚 Focusing on my studies to become an IT Specialist.
+Focusing on my studies to become an IT Specialist.
 
 <div>
   Grinding Skyblock.
